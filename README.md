@@ -5,11 +5,12 @@ PREREQUISITES
 
 Have terraform installed
 
+Install the required packages
 
 TO RUN EXECUTE THE FOLLOWING:
 
 ```terraform init```
 
-```terrform plan```
-
 ```terraform apply```
+
+
